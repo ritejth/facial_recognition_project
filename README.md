@@ -110,9 +110,9 @@ streamlit run app.py
 ## 👤 Auteur
 
 **Ritej Touhami** 
-Étudiante en Master Professionnel en Ingénierie des Systèmes d’Information & Data Science.
-📧 ritejtouhami@gmail.com
-🔗 LinkedIn
+Étudiante en Master Professionnel en Ingénierie des Systèmes d’Information & Data Science 
+📧 ritejtouhami@gmail.com  
+🔗 [LinkedIn](https://www.linkedin.com/in/ritejtouhami)
 
 ---
 
