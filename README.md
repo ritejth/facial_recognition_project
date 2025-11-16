@@ -74,8 +74,8 @@ L’objectif est de combiner différentes approches **d’extraction de caracté
 
 ### 1️⃣ **Cloner le projet**
 ```bash
-git clone https://github.com/votre-utilisateur/Reconnaissance-Faciale.git
-cd Reconnaissance-Faciale
+git clone https://github.com/ritejth/facial_recognition_project.git
+cd facial_recognition_project
 ```
 
 ### 2️⃣ **Créer un environnement virtuel**
